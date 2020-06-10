@@ -1,2 +1,14 @@
-# Data_Preprocessing
-Data Preprocessing techniques in preparation for ML models using Python Numpy, Pandas, etc.
+# Machine Learning Templates and Techniques
+
+Consists of:
+
+Data Preprocessing
+Regresson
+Classification
+Clustering
+Association Rule Learning
+Reinforcement Learning
+Natural Language Processing
+Deep Learning
+Dimensionality Reduction
+Model Selection_Boosting
